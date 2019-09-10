@@ -1,6 +1,7 @@
 // Console Text Animation
-// function([string1, string2],target id,[color1,color2])    
- consoleText(['Dedicated Programmer.', 'Aspiring Entrepreneur.', 'Fearless Leader.'], 'text',['green','blue','red']);
+// function([string1, string2],target id,[color1,color2])   
+$( document ).ready(function() {
+consoleText(['Dedicated Programmer.', 'Aspiring Entrepreneur.', 'Fearless Leader.'], 'text',['green','blue','red']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
@@ -49,4 +50,5 @@ function consoleText(words, id, colors) {
       visible = true;
     }
   }, 400)
+}
 }
