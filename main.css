@@ -197,7 +197,7 @@ img {
 }
 
 .language-pics {
-  display: inline-block;
+  display: block;
   align-items: center;
   vertical-align: middle;
   justify-content: center;
