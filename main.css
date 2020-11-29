@@ -203,7 +203,7 @@ img {
   justify-content: center;
   width: 50%;
   height: auto;
-  margin: 10 auto;
+  margin: 50 auto;
 }
 
 @media only screen and (max-width: 600px) {
