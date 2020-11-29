@@ -197,11 +197,11 @@ img {
 }
 
 .language-pics {
-  display: block;
+  display: inline-block;
   align-items: center;
   vertical-align: middle;
   justify-content: center;
-  width: 50%;
+  width: 40%;
   height: auto;
   margin: 0 auto;
 }
