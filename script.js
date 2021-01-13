@@ -1,7 +1,7 @@
 // Console Text Animation
 // function([string1, string2],target id,[color1,color2])
 consoleText(
-  ['Dedicated Programmer.', 'Aspiring Entrepreneur.', 'Collaborative Worker'],
+  ['Dedicated Programmer.', 'Aspiring Entrepreneur.', 'Collaborative Worker.'],
   'text',
   ['green', 'blue', 'red']
 );
